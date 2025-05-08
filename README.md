@@ -14,7 +14,7 @@ This **Pharmacy Inventory Management System** is a C-based application designed 
 - Track supplier-specific quantities for each batch.
 - Automatically generates stock alerts when below reorder level.
 
-### 🌲 B-Tree Integration
+###  B-Tree Integration
 - Four separate B-Trees store the same medication records but sorted differently:
   - By **medID**
   - By **medName**
