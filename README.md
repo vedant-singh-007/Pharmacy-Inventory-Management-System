@@ -6,7 +6,7 @@ This **Pharmacy Inventory Management System** is a C-based application designed 
 
 ---
 
-## 🛠 Features
+##  Features
 
 ###  Inventory Management
 - Add, update, and delete medication records.
